@@ -15,4 +15,4 @@ LAB 2:
 LAB 3:
 1. Arithmetic Encoding
 2. Hypothesis Testing
-3. JPEG Compression
+3. JPEG and JPEG2000
