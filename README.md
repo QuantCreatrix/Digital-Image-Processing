@@ -16,3 +16,6 @@ LAB 3:
 1. Arithmetic Encoding
 2. Hypothesis Testing
 3. JPEG and JPEG2000
+
+LAB 4:
+1. Local Binary Pattern
